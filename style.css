@@ -1,0 +1,21 @@
+#contenido {
+    margin: 0px auto !important;
+}
+
+#imgperfil {
+    margin: 15px;
+
+}
+
+.ico {
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+#works {
+    background-color: rgb(51, 59, 66) !important;
+    padding: 1rem;
+    border-radius: 5px;
+
+}
